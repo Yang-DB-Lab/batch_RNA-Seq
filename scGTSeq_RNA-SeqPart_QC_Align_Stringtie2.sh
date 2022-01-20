@@ -237,8 +237,6 @@ done
 ## folder.
 ##******************************************************************************************##
 
-## Re-define of the global variables to make Part3.2 independent script.
-## top_level_folder="/data/guang/scRNA_Seq_Folder_of_Samples"
 ## Initialize the top_level folder. Must use full path!!
 ## This folder should contain the sample folders with single-end fatq.gz files.
 cd $top_level_folder
